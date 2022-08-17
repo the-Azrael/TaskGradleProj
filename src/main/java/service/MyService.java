@@ -1,3 +1,11 @@
+package service;
+
+import db.Db;
+import db.DbSetting;
+import db.MyEntity;
+
+import java.util.UUID;
+
 public class MyService {
 
     private DbSetting dbSetting = new DbSetting("name", "password");

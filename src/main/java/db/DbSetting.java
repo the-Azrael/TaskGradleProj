@@ -1,3 +1,5 @@
+package db;
+
 public class DbSetting {
 
     private String name;
